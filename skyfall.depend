@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1369359413 source:c:\users\matías\dropbox\utn\programacion 2\skyfall\clases\objetos.cpp
+	"allegro.h"
+	"Objetos.hpp"
+
+1372032798 c:\users\matías\dropbox\utn\programacion 2\skyfall\clases\objetos.hpp
+
+1373837716 source:c:\users\matías\dropbox\utn\programacion 2\skyfall\main.cpp
+	"allegro.h"
+	<cstdio>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	"clases/Fondo.hpp"
+	"clases/Objetos.hpp"
+	"clases/Asteroides.hpp"
+	"clases/Disparos.hpp"
+	"clases/Naves.hpp"
+	"clases/Jugador.hpp"
+	"clases/Enemigo.hpp"
+	"clases/BonusSalud.hpp"
+	"clases/BonusEnergia.hpp"
+	"clases/Perfil.hpp"
+	"clases/Nivel.hpp"
+	"clases/Puntajes.hpp"
+	"include/Utils.hpp"
+	"include/Menu.hpp"
+	"include/Interfaz.hpp"
+	"include/Juego.hpp"
+
+1373543947 c:\users\matías\dropbox\utn\programacion 2\skyfall\include\utils.hpp
+
+1372226367 c:\users\matías\dropbox\utn\programacion 2\skyfall\include\menu.hpp
+
+1372225372 c:\users\matías\dropbox\utn\programacion 2\skyfall\clases\perfil.hpp
+
+1372300402 c:\users\matías\dropbox\utn\programacion 2\skyfall\clases\nivel.hpp
+
+1369359722 c:\users\matías\dropbox\utn\programacion 2\skyfall\clases\fondo.hpp
+
+1372271380 c:\users\matías\dropbox\utn\programacion 2\skyfall\clases\asteroides.hpp
+
+1372302482 c:\users\matías\dropbox\utn\programacion 2\skyfall\clases\disparos.hpp
+
+1372300615 c:\users\matías\dropbox\utn\programacion 2\skyfall\clases\naves.hpp
+
+1372286293 c:\users\matías\dropbox\utn\programacion 2\skyfall\clases\jugador.hpp
+
+1369868799 c:\users\matías\dropbox\utn\programacion 2\skyfall\clases\bonus.hpp
+
+1369868983 c:\users\matías\dropbox\utn\programacion 2\skyfall\clases\fireball.hpp
+
+1373512195 c:\users\matías\dropbox\utn\programacion 2\skyfall\clases\puntajes.hpp
+
+1370062297 source:c:\users\matías\dropbox\utn\programacion 2\skyfall\icon.rc
+
+1372300569 c:\users\matías\dropbox\utn\programacion 2\skyfall\clases\enemigo.hpp
+
+1372299153 c:\users\matías\dropbox\utn\programacion 2\skyfall\clases\bonussalud.hpp
+
+1372299155 c:\users\matías\dropbox\utn\programacion 2\skyfall\clases\bonusenergia.hpp
+
+1373838727 c:\users\matías\dropbox\utn\programacion 2\skyfall\include\juego.hpp
+
+1372293289 c:\users\matías\dropbox\utn\programacion 2\skyfall\include\interfaz.hpp
+

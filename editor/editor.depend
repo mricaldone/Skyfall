@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1369279471 source:c:\users\matías\dropbox\utn\programacion 2\skyfall\profile_editor\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"../clases/Perfil.hpp"
+
+1372225372 c:\users\matías\dropbox\utn\programacion 2\skyfall\clases\perfil.hpp
+
+1372295204 source:c:\users\matías\dropbox\utn\programacion 2\skyfall\editor\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"../clases/Perfil.hpp"
+	"../clases/Nivel.hpp"
+	"../clases/Puntajes.hpp"
+
+1372300402 c:\users\matías\dropbox\utn\programacion 2\skyfall\clases\nivel.hpp
+
+1372264343 c:\users\matías\dropbox\utn\programacion 2\skyfall\clases\puntajes.hpp
+
